@@ -22,7 +22,7 @@
 }
 
 html {
-    font-size: 12px;
+    font-size: 10px;
     color: var(--dark-color);
     font-family: var(--primary-font);
     scroll-behavior: smooth;
